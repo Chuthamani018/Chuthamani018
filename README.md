@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chuthamani018" alt="chuthamani018" /></a> </p>
 
-- 📫 How to reach me **chuthamani@mctham.fun**
+- 📫 How to reach me **pannrat@mctham.fun**
 
 - ⚡ Fun fact **I think i am good guy**
 
